@@ -614,3 +614,173 @@ LogInit: Object subsystem initialized
 [2017.03.24-19.29.20:352][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.03.24-19.29.55:158][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.03.24-19.29.55:203][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.12.48:833][769]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-20.12.48:862][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.12.48:862][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-20.12.48:862][769]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 20:12:48)
+[2017.03.24-20.12.48:862][769]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-20.12.48:900][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037386s)
+[2017.03.24-20.12.48:902][769]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-20.12.48:903][769]LogPlayLevel: PIE: World Init took: (0.002471s)
+[2017.03.24-20.12.48:903][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040512s)
+[2017.03.24-20.12.48:954][769]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-20.12.49:019][769]LogInit: FAudioDevice initialized.
+[2017.03.24-20.12.49:051][769]LogLoad: Game class is 'GameModeBase'
+[2017.03.24-20.12.49:057][769]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-20.12.49
+[2017.03.24-20.12.49:057][769]LogWorld: Bringing up level for play took: 0.003735
+[2017.03.24-20.12.49:059][769]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.053
+[2017.03.24-20.12.49:059][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.14.30:750][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.14.30:789][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.14.44:387][581]LogSlate: Took 0.020887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.03.24-20.15.07:349][372]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.24-20.15.07:383][372]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2017.03.24-20.15.07:669][372]BlueprintEditorCompileResults:Warning: Warning InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2017.03.24-20.15.07:670][372]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning [4343.59] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 320 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.03.24-20.15.23:241][ 43]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.24-20.15.23:275][ 43]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2017.03.24-20.15.23:441][ 43]BlueprintEditorCompileResults:Warning: Warning InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2017.03.24-20.15.23:441][ 43]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning [4359.36] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 200 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.03.24-20.15.28:739][273]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.24-20.15.30:273][314]LogSavePackage: Save=363.18ms
+[2017.03.24-20.15.30:273][314]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonCharacterF9961E4245C5E89640EF8B865E25BB8F.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.24-20.15.30:283][314]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.24-20.15.35:854][565]LogSavePackage: Save=497.71ms
+[2017.03.24-20.15.35:854][565]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap5F3D421D458A80F28F7ED0AC9BEB9D5E.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-20.15.35:859][565]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-20.15.35:911][565]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.671
+[2017.03.24-20.15.36:653][609]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-20.15.36:679][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.15.36:679][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-20.15.36:679][609]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 20:15:36)
+[2017.03.24-20.15.36:679][609]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-20.15.36:713][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033516s)
+[2017.03.24-20.15.36:714][609]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-20.15.36:714][609]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2017.03.24-20.15.36:714][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035057s)
+[2017.03.24-20.15.36:758][609]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-20.15.36:823][609]LogInit: FAudioDevice initialized.
+[2017.03.24-20.15.36:859][609]LogLoad: Game class is 'GameModeBase'
+[2017.03.24-20.15.36:865][609]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-20.15.36
+[2017.03.24-20.15.36:865][609]LogWorld: Bringing up level for play took: 0.003931
+[2017.03.24-20.15.36:867][609]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.139
+[2017.03.24-20.15.36:868][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.15.40:657][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.15.40:716][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.18.41:024][173]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.24-20.18.51:120][688]BlueprintLog: New page: Compile Player_GameMode
+[2017.03.24-20.18.52:109][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/Player_GameMode" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset" SILENT=true
+[2017.03.24-20.18.52:143][705]LogSavePackage: Save=22.15ms
+[2017.03.24-20.18.52:144][705]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/Player_GameModeE7D239FB435D82FE15D3C5BE61D5E232.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset'
+[2017.03.24-20.18.52:149][705]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset
+[2017.03.24-20.19.22:716][176]BlueprintLog: New page: Compile Player_GameMode
+[2017.03.24-20.19.23:385][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/Player_GameMode" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset" SILENT=true
+[2017.03.24-20.19.23:414][195]LogSavePackage: Save=25.49ms
+[2017.03.24-20.19.23:414][195]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/Player_GameMode46CE17D141705BE34B4BE5AE477E6974.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset'
+[2017.03.24-20.19.23:419][195]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset
+[2017.03.24-20.19.27:177][407]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-20.19.27:204][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.19.27:205][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-20.19.27:205][407]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 20:19:27)
+[2017.03.24-20.19.27:205][407]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-20.19.27:238][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033360s)
+[2017.03.24-20.19.27:241][407]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-20.19.27:241][407]LogPlayLevel: PIE: World Init took: (0.002872s)
+[2017.03.24-20.19.27:242][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036887s)
+[2017.03.24-20.19.27:281][407]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-20.19.27:346][407]LogInit: FAudioDevice initialized.
+[2017.03.24-20.19.27:386][407]LogLoad: Game class is 'GameModeBase'
+[2017.03.24-20.19.27:392][407]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-20.19.27
+[2017.03.24-20.19.27:393][407]LogWorld: Bringing up level for play took: 0.004289
+[2017.03.24-20.19.27:395][407]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.389
+[2017.03.24-20.19.27:395][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.19.32:339][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.19.32:398][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.19.33:952][788]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.24-20.19.36:997][949]LogSavePackage: Save=220.74ms
+[2017.03.24-20.19.36:997][949]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap62B8ECCE4046D0CE236FDF8EDED59F38.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-20.19.37:003][949]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-20.19.37:401][949]LogSavePackage: Save=344.38ms
+[2017.03.24-20.19.37:401][949]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap_BuiltData8D21BBA24619FDCEE3335EBA713A158A.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.03.24-20.19.37:403][949]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.03.24-20.19.37:942][981]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-20.19.37:969][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.19.37:969][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-20.19.37:969][981]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 20:19:37)
+[2017.03.24-20.19.37:969][981]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-20.19.37:997][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027395s)
+[2017.03.24-20.19.37:998][981]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-20.19.37:998][981]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2017.03.24-20.19.37:998][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029197s)
+[2017.03.24-20.19.38:046][981]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-20.19.38:110][981]LogInit: FAudioDevice initialized.
+[2017.03.24-20.19.38:148][981]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-20.19.38:153][981]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-20.19.38
+[2017.03.24-20.19.38:153][981]LogWorld: Bringing up level for play took: 0.003298
+[2017.03.24-20.19.38:475][981]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.47
+[2017.03.24-20.19.38:476][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.19.51:179][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.19.51:224][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-20.27.05:853][331]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-20.27.07:507][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-20.27.07:536][380]LogSavePackage: Save=26.71ms
+[2017.03.24-20.27.07:536][380]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRig311F3181414B0FC7FAF441BAEF7D4C64.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-20.27.07:540][380]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-20.27.49:186][436]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2017.03.24-20.27.51:780][559]LogEditorViewport: Clicking on Actor (LMB): BP_4CameraRig_C (BP_4CameraRig)
+[2017.03.24-20.30.16:596][ 82]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-20.30.17:513][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-20.30.17:554][ 98]LogSavePackage: Save=26.56ms
+[2017.03.24-20.30.17:555][ 98]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRig7B71DCE64455302640999B8155D1F7FB.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-20.30.17:560][ 98]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-20.32.38:845][ 62]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.24-20.34.37:238][104]LogSlate: Took 0.022321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.03.24-20.35.16:370][727]BlueprintLog: New page: Compile Player_GameMode
+[2017.03.24-20.35.17:234][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/Player_GameMode" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset" SILENT=true
+[2017.03.24-20.35.17:286][751]LogSavePackage: Save=36.52ms
+[2017.03.24-20.35.17:286][751]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/Player_GameMode3E97F29E43F90CA60163D1967B93624D.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset'
+[2017.03.24-20.35.17:291][751]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset
+[2017.03.24-20.35.46:682][155]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-20.35.47:786][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-20.35.47:823][175]LogSavePackage: Save=24.29ms
+[2017.03.24-20.35.47:823][175]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRig7D4D9D8046D28909232EC8BD0D6714A1.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-20.35.47:828][175]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-20.37.11:712][842]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-20.37.12:808][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-20.37.12:846][864]LogSavePackage: Save=33.71ms
+[2017.03.24-20.37.12:846][864]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRigD9B0C95F4ECBFDA7EAEC95A8E89C6F25.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-20.37.12:851][864]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-20.37.28:365][585]LogEditorViewport: Clicking on Actor (LMB): BP_4CameraRig_C (BP_4CameraRig)
+[2017.03.24-20.38.19:998][925]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.03.24-20.38.28:279][167]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.03.24-20.38.28:458][167]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MLBA
+
+[2017.03.24-20.38.28:458][167]LogTemp:Display: CWD: D:\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.03.24-20.38.28:458][167]LogTemp:Display: Initial Dir: D:\UE_4.15
+
+[2017.03.24-20.38.28:458][167]LogTemp:Display: Env CWD: D:\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.03.24-20.38.28:459][167]LogTemp:Display: BranchPath = MSI/D/UE_4.15/Engine/Binaries --- GameBranchPath = MSI/D/UE_4.15/Engine/Binaries
+
+[2017.03.24-20.38.28:459][167]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\CometGoat\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.03.24-20.38.28:459][167]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.03.24-20.38.28:459][167]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.03.24-20.38.28:459][167]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.03.24-20.38.28:459][167]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.03.24-20.38.28:459][167]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.03.24-20.39.04:513][542]BlueprintLog: New page: Compile Player_GameMode
+[2017.03.24-20.39.06:029][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/Player_GameMode" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset" SILENT=true
+[2017.03.24-20.39.06:072][604]LogSavePackage: Save=39.10ms
+[2017.03.24-20.39.06:072][604]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/Player_GameMode231C82B04DC9FA206BCD958FA5B4E11F.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset'
+[2017.03.24-20.39.06:076][604]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Gameplay/Player_GameMode.uasset
+[2017.03.24-20.39.42:094][329]LogSavePackage: Save=231.14ms
+[2017.03.24-20.39.42:095][329]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap1FCB53084E9B609771D8FCB9BC13CF1A.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-20.39.42:099][329]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-20.39.42:156][329]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.410
