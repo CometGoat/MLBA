@@ -8222,3 +8222,353 @@ LogInit: Object subsystem initialized
 [2017.03.24-23.35.44:937][512]Cmd: LevelEditor.ToggleImmersive
 [2017.03.24-23.36.59:527][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.03.24-23.36.59:645][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.40.09:317][979]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.24-23.42.39:636][592]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-23.42.40:943][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-23.42.41:113][610]LogSavePackage: Save=154.67ms
+[2017.03.24-23.42.41:113][610]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRig70674F2E4BBA52AA72D760A4EBDD9E0C.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-23.42.41:118][610]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-23.42.46:139][841]LogSavePackage: Save=283.19ms
+[2017.03.24-23.42.46:139][841]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMapB65D99274C6B28489BEC5E9C09999476.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-23.42.46:145][841]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-23.42.46:199][841]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.484
+[2017.03.24-23.42.47:297][905]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-23.42.47:334][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.42.47:335][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-23.42.47:335][905]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 23:42:47)
+[2017.03.24-23.42.47:335][905]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-23.42.47:368][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033436s)
+[2017.03.24-23.42.47:370][905]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-23.42.47:370][905]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2017.03.24-23.42.47:371][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035919s)
+[2017.03.24-23.42.47:449][905]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-23.42.47:516][905]LogInit: FAudioDevice initialized.
+[2017.03.24-23.42.47:548][905]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-23.42.47:554][905]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-23.42.47
+[2017.03.24-23.42.47:555][905]LogWorld: Bringing up level for play took: 0.003855
+[2017.03.24-23.42.47:568][905]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.569
+[2017.03.24-23.42.47:569][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.02:738][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.02:857][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.03:918][846]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-23.43.03:948][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.03:948][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-23.43.03:948][846]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 23:43:03)
+[2017.03.24-23.43.03:948][846]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-23.43.03:979][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030673s)
+[2017.03.24-23.43.03:980][846]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-23.43.03:980][846]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2017.03.24-23.43.03:980][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032201s)
+[2017.03.24-23.43.04:092][846]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-23.43.04:155][846]LogInit: FAudioDevice initialized.
+[2017.03.24-23.43.04:196][846]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-23.43.04:202][846]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-23.43.04
+[2017.03.24-23.43.04:203][846]LogWorld: Bringing up level for play took: 0.004276
+[2017.03.24-23.43.04:216][846]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.217
+[2017.03.24-23.43.04:217][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.05:709][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.05:791][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.43:169][264]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-23.43.43:868][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-23.43.44:030][271]LogSavePackage: Save=154.95ms
+[2017.03.24-23.43.44:030][271]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRigDDCE4EAE4B5668F0B900D0962B0BD620.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-23.43.44:034][271]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-23.43.47:461][418]LogSavePackage: Save=253.53ms
+[2017.03.24-23.43.47:461][418]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMapEDAFA02B4C6BE007225AF49084D1B215.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-23.43.47:467][418]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-23.43.47:505][418]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.408
+[2017.03.24-23.43.47:946][444]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-23.43.47:980][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.47:980][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-23.43.47:980][444]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 23:43:47)
+[2017.03.24-23.43.47:981][444]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-23.43.48:011][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030858s)
+[2017.03.24-23.43.48:013][444]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-23.43.48:013][444]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2017.03.24-23.43.48:013][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032840s)
+[2017.03.24-23.43.48:097][444]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-23.43.48:160][444]LogInit: FAudioDevice initialized.
+[2017.03.24-23.43.48:200][444]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-23.43.48:206][444]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-23.43.48
+[2017.03.24-23.43.48:207][444]LogWorld: Bringing up level for play took: 0.004405
+[2017.03.24-23.43.48:222][444]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.222
+[2017.03.24-23.43.48:222][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.43.56:414][931]Cmd: LevelEditor.ToggleImmersive
+[2017.03.24-23.44.13:687][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.44.13:843][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.44.25:283][515]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.03.24-23.44.29:494][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.24-23.44.30:528][763]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.03.24-23.44.34:468][962]LogEditorViewport: Clicking on Actor (LMB): BP_4CameraRig_C (BP_4CameraRig)
+[2017.03.24-23.44.39:755][215]LogSavePackage: Save=260.40ms
+[2017.03.24-23.44.39:755][215]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap07224F9C432DE5FFA680FC8391BA8A0F.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-23.44.39:760][215]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-23.44.40:101][215]LogSavePackage: Save=278.75ms
+[2017.03.24-23.44.40:101][215]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap_BuiltDataC523F0FE43A2F4D411D389A78BA741B9.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.03.24-23.44.40:104][215]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.03.24-23.44.40:607][244]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-23.44.40:644][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.44.40:644][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-23.44.40:645][244]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 23:44:40)
+[2017.03.24-23.44.40:645][244]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-23.44.40:677][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032683s)
+[2017.03.24-23.44.40:679][244]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-23.44.40:679][244]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2017.03.24-23.44.40:679][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034659s)
+[2017.03.24-23.44.40:758][244]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-23.44.40:828][244]LogInit: FAudioDevice initialized.
+[2017.03.24-23.44.40:866][244]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-23.44.40:872][244]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-23.44.40
+[2017.03.24-23.44.40:873][244]LogWorld: Bringing up level for play took: 0.004299
+[2017.03.24-23.44.40:887][244]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.112
+[2017.03.24-23.44.40:888][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.44.43:764][410]Cmd: LevelEditor.ToggleImmersive
+[2017.03.24-23.44.57:773][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.44.57:895][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.45.09:873][924]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2017.03.24-23.45.11:074][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.24-23.45.11:667][ 14]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.03.24-23.45.13:322][ 92]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2017.03.24-23.45.14:912][180]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.24-23.45.16:367][246]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-23.45.16:397][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.45.16:398][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-23.45.16:398][246]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 23:45:16)
+[2017.03.24-23.45.16:398][246]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-23.45.16:433][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034658s)
+[2017.03.24-23.45.16:434][246]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-23.45.16:434][246]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2017.03.24-23.45.16:435][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036700s)
+[2017.03.24-23.45.16:489][246]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-23.45.16:555][246]LogInit: FAudioDevice initialized.
+[2017.03.24-23.45.16:589][246]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-23.45.16:595][246]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-23.45.16
+[2017.03.24-23.45.16:595][246]LogWorld: Bringing up level for play took: 0.003979
+[2017.03.24-23.45.16:610][246]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.389
+[2017.03.24-23.45.16:610][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.45.18:948][380]Cmd: LevelEditor.ToggleImmersive
+[2017.03.24-23.45.30:503][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.45.30:627][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.45.34:818][253]LogSavePackage: Save=276.32ms
+[2017.03.24-23.45.34:819][253]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap3EEA24FA4ACE6560A30312A2F8377E86.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-23.45.34:824][253]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-23.45.34:864][253]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.439
+[2017.03.24-23.50.52:904][649]LogClass:Warning: Type mismatch in UntargettedPlayerCount of SKEL_BP_4CameraRig_C - Previous (StructProperty) Current(IntProperty) for package:  FObjectReader
+[2017.03.24-23.51.34:718][ 54]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-23.51.36:026][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-23.51.36:209][ 66]LogSavePackage: Save=167.24ms
+[2017.03.24-23.51.36:209][ 66]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRig4621CA764F8476B60C2587A5705DD3E3.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-23.51.36:214][ 66]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-23.51.39:248][187]LogSavePackage: Save=253.60ms
+[2017.03.24-23.51.39:248][187]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap0C5E823943D76429282847B9EFC33616.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-23.51.39:253][187]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-23.51.39:305][187]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.432
+[2017.03.24-23.51.40:139][236]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-23.51.40:172][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.51.40:173][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-23.51.40:173][236]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 23:51:40)
+[2017.03.24-23.51.40:173][236]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-23.51.40:204][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030993s)
+[2017.03.24-23.51.40:205][236]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-23.51.40:206][236]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2017.03.24-23.51.40:206][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033331s)
+[2017.03.24-23.51.40:257][236]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-23.51.40:322][236]LogInit: FAudioDevice initialized.
+[2017.03.24-23.51.40:354][236]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-23.51.40:361][236]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-23.51.40
+[2017.03.24-23.51.40:362][236]LogWorld: Bringing up level for play took: 0.004395
+[2017.03.24-23.51.40:375][236]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.624
+[2017.03.24-23.51.40:376][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.51.40:657][236]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:740][237]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:755][238]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:772][239]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:805][240]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:831][241]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:847][242]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:864][243]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:880][244]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:897][245]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:914][246]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:931][247]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:947][248]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:964][249]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.40:980][250]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:003][251]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:014][252]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:031][253]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:047][254]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:064][255]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:081][256]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:098][257]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:115][258]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:131][259]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:148][260]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:164][261]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:181][262]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:198][263]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:214][264]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:231][265]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:247][266]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:264][267]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:281][268]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:298][269]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:315][270]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:331][271]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:348][272]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:365][273]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:381][274]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:398][275]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:414][276]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:431][277]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:447][278]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:465][279]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:481][280]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:498][281]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:514][282]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:531][283]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:548][284]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:565][285]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:581][286]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:598][287]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:614][288]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:631][289]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:648][290]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:665][291]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:681][292]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:698][293]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:714][294]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:731][295]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:748][296]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:765][297]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:781][298]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:799][299]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:814][300]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:831][301]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:848][302]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:864][303]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:881][304]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:898][305]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:915][306]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:931][307]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:948][308]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:965][309]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:981][310]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.41:998][311]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:014][312]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:031][313]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:048][314]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:064][315]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:081][316]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:098][317]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:114][318]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:131][319]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:148][320]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:164][321]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:181][322]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:198][323]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:215][324]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:231][325]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:248][326]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:264][327]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:281][328]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:298][329]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:314][330]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:331][331]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:348][332]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:364][333]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:381][334]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:398][335]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:414][336]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:431][337]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:448][338]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:464][339]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:481][340]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:498][341]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:515][342]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:531][343]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:548][344]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:565][345]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:581][346]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:598][347]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:615][348]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:631][349]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:648][350]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:664][351]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:681][352]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:698][353]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:715][354]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:731][355]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:749][356]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:765][357]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:781][358]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:798][359]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:814][360]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:831][361]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:848][362]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:864][363]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:881][364]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:898][365]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:915][366]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:931][367]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:948][368]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:965][369]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:981][370]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.42:998][371]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:015][372]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:031][373]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:048][374]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:066][375]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:082][376]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:099][377]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:116][378]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:132][379]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:149][380]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:166][381]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:182][382]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:199][383]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:216][384]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:232][385]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:249][386]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:266][387]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:282][388]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:299][389]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:316][390]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:332][391]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:349][392]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:366][393]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:383][394]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:399][395]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:416][396]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:432][397]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:449][398]LogScriptCore:Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2017.03.24-23.51.43:451][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.51.43:573][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.52.00:138][ 22]BlueprintLog: New page: Compile BP_4CameraRig
+[2017.03.24-23.52.01:077][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experimental/BP_4CameraRig" FILE="C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset" SILENT=true
+[2017.03.24-23.52.01:259][ 39]LogSavePackage: Save=174.38ms
+[2017.03.24-23.52.01:259][ 39]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/BP_4CameraRig0E69B61D4F7E67386A9ECE8664D785E4.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset'
+[2017.03.24-23.52.01:264][ 39]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/Experimental/BP_4CameraRig.uasset
+[2017.03.24-23.52.04:159][161]LogSavePackage: Save=248.24ms
+[2017.03.24-23.52.04:159][161]LogSavePackage: Moving 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Saved/ThirdPersonExampleMap2C24E35F4AD42D08AE9E9BA7F4887048.tmp' to 'C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-23.52.04:163][161]LogSavePackage:Display: Finished SavePackage C:/Users/CometGoat/Documents/GitHub/MLBA/MLBA/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-23.52.04:201][161]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.395
+[2017.03.24-23.52.04:601][185]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-23.52.04:640][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.52.04:641][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-23.52.04:641][185]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 23:52:04)
+[2017.03.24-23.52.04:641][185]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-23.52.04:679][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038094s)
+[2017.03.24-23.52.04:680][185]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-23.52.04:681][185]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2017.03.24-23.52.04:681][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040346s)
+[2017.03.24-23.52.04:728][185]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.24-23.52.04:792][185]LogInit: FAudioDevice initialized.
+[2017.03.24-23.52.04:826][185]LogLoad: Game class is 'Player_GameMode_C'
+[2017.03.24-23.52.04:833][185]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-23.52.04
+[2017.03.24-23.52.04:833][185]LogWorld: Bringing up level for play took: 0.004007
+[2017.03.24-23.52.04:847][185]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.153
+[2017.03.24-23.52.04:847][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.52.07:502][337]Cmd: LevelEditor.ToggleImmersive
+[2017.03.24-23.53.03:309][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-23.53.03:483][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
